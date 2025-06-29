@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Getting Started with JavaScript",
+      "content": "This is the first blog post about learning JavaScript basics. We'll cover variables, data types, and functions.",
+      "author": "Alice Johnson",
+      "image": "https://m.media-amazon.com/images/I/71h9xsusf8L._SL1360_.jpg"
+    },
+    {
+      "title": "Understanding Asynchronous JavaScript",
+      "author": "Bob William",
+      "content": "A deep dive into promises, async/await, and how to handle asynchronous operations gracefully in your applications.",
+      "image": "https://m.media-amazon.com/images/I/51gAc5IXv7L._SL1360_.jpg",
+      "id": 2
+    },
+
+     {
+      "title": "Airtifitial intelligent",
+      "author": "Bob Marly",
+      "content": "A man using a computer.",
+      "image": "https://media.istockphoto.com/id/121199853/photo/closeup-of-guy-working-on-a-laptop-indoor.jpg?s=2048x2048&w=is&k=20&c=AUgs2Itt-Kr87a75MNiX1D_jwA7EpvSe03NPnipTMKI=",
+      "id": 3
+    },
+      {
+      "title": "Philosophy",
+      "author": "Betty Marly",
+      "content": "Shutter stock",
+      "image":  "https://www.shutterstock.com/image-photo/open-antique-book-pages-lit-warm-tones-2537097731",
+      "id": 3
+    }
+  ]
+}
